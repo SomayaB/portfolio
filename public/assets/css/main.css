@@ -2409,7 +2409,7 @@
 			input[type="reset"].special:active,
 			input[type="button"].special:active,
 			.button.special:active {
-				background-color: #39c29d;
+				background-color: #3e92cc;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
